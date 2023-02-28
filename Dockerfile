@@ -1,3 +1,3 @@
-FROM hshar/webapp
+FROM node
 ADD . /var/www/html
 
